@@ -1,0 +1,23 @@
+# Зависимости для LLM-парсера выписок
+
+# LLM API клиенты
+anthropic>=0.18.0          # Claude API (загружается всегда, но используется только если выбран)
+openai>=1.12.0             # OpenAI GPT-4 API + DeepSeek (ОСНОВНОЙ - используем его)
+groq>=0.4.0                # Groq API (уже установлен)
+
+# ОПЦИОНАЛЬНЫЕ (устанавливай только если нужны):
+# google-generativeai>=0.3.0 # Google Gemini API (lazy import)
+
+# Работа с Excel/CSV/RTF
+openpyxl>=3.1.0            # Чтение/запись Excel
+pandas>=2.0.0              # Работа с таблицами
+striprtf>=0.0.26           # Чтение RTF файлов
+
+# FastAPI сервер
+fastapi>=0.104.0           # FastAPI framework
+uvicorn[standard]>=0.24.0  # ASGI сервер
+python-multipart>=0.0.6    # Для загрузки файлов
+
+# Утилиты
+python-dotenv>=1.0.0       # Загрузка .env файлов
+

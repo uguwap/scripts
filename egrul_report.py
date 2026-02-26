@@ -4,6 +4,8 @@ import select
 import threading
 import time
 from datetime import datetime
+from pathlib import Path
+from dotenv import load_dotenv
 
 import paramiko
 import pandas as pd
@@ -11,18 +13,25 @@ from clickhouse_driver import Client
 from openpyxl.utils import get_column_letter
 from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 
-SSH_HOST = "doc.ai-referent.ru"
-SSH_PORT = 22
+# Загрузка переменных окружения из .env файла
+env_path = Path(__file__).parent / ".env"
+if env_path.exists():
+    load_dotenv(env_path)
+else:
+    load_dotenv()
+
+SSH_HOST = os.getenv("SSH_HOST", "doc.ai-referent.ru")
+SSH_PORT = int(os.getenv("SSH_PORT", "22"))
 SSH_USER = os.getenv("SSH_USER", "tunnel")
-SSH_PASSWORD = "R3CiCUFxLhR5bQrGvV4E"
+SSH_PASSWORD = os.getenv("SSH_PASSWORD", "")
 
-CH_REMOTE_HOST = "10.10.0.4"
-CH_REMOTE_PORT = 9000
-CH_USER = "i_litvinov"
-CH_PASSWORD = "GHO42hfVoC2pdi91ldQp"
-CH_DATABASE = "analytic"
+CH_REMOTE_HOST = os.getenv("CH_REMOTE_HOST", "10.10.0.4")
+CH_REMOTE_PORT = int(os.getenv("CH_REMOTE_PORT", "9000"))
+CH_USER = os.getenv("CH_USER", "i_litvinov")
+CH_PASSWORD = os.getenv("CH_PASSWORD", "")
+CH_DATABASE = os.getenv("CH_DATABASE", "analytic")
 
-DAYS_BACK = 30
+DAYS_BACK = int(os.getenv("DAYS_BACK", "30"))
 
 HEADER_FONT = Font(name="Calibri", bold=True, size=11, color="FFFFFF")
 HEADER_FILL = PatternFill(start_color="4472C4", end_color="4472C4", fill_type="solid")

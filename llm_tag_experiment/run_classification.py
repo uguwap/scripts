@@ -18,6 +18,7 @@ import re
 from datetime import datetime
 from pathlib import Path
 from typing import Any
+from dotenv import load_dotenv
 
 import requests
 
@@ -30,23 +31,30 @@ if sys.platform == "win32":
 # Конфигурация
 # ──────────────────────────────────────────────────────────────────────
 
+# Загрузка переменных окружения из .env файла
+env_path = Path(__file__).parent.parent / ".env"
+if env_path.exists():
+    load_dotenv(env_path)
+else:
+    load_dotenv()
+
 # ClickHouse DEV
-CH_HOST = "dev.ai-referent.ru"
-CH_PORT = 8123
-CH_USER = "i_litvinov"
-CH_PASSWORD = "S7oSS2EauDQmWJ3CwpyF"
-CH_DATABASE = "analytic"
+CH_HOST = os.getenv("CH_DEV_HOST", "dev.ai-referent.ru")
+CH_PORT = int(os.getenv("CH_DEV_PORT", "8123"))
+CH_USER = os.getenv("CH_DEV_USER", "i_litvinov")
+CH_PASSWORD = os.getenv("CH_DEV_PASSWORD", "")
+CH_DATABASE = os.getenv("CH_DEV_DATABASE", "analytic")
 
 # LLM
-LLM_API_KEY = "Fp6BKzEAzCxLJUTgfV6T4BNyrOV6V9eM0nkSxTd9+rY="
-LLM_BASE_URL = "https://neuro.sspb.ru/v1"
-LLM_MODEL = "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+LLM_API_KEY = os.getenv("LLM_API_KEY", "")
+LLM_BASE_URL = os.getenv("LLM_BASE_URL", "https://neuro.sspb.ru/v1")
+LLM_MODEL = os.getenv("LLM_MODEL", "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B")
 
 # Параметры батча
-BATCH_SIZE = 40  # транзакций за один LLM-запрос
-LLM_TIMEOUT = 180  # секунд
-LLM_MAX_RETRIES = 3
-SAMPLE_SIZE = 200  # 0 = все транзакции, >0 = случайная выборка для пилота
+BATCH_SIZE = int(os.getenv("BATCH_SIZE", "40"))  # транзакций за один LLM-запрос
+LLM_TIMEOUT = int(os.getenv("LLM_TIMEOUT", "180"))  # секунд
+LLM_MAX_RETRIES = int(os.getenv("LLM_MAX_RETRIES", "3"))
+SAMPLE_SIZE = int(os.getenv("SAMPLE_SIZE", "200"))  # 0 = все транзакции, >0 = случайная выборка для пилота
 
 # Выходные файлы
 OUTPUT_DIR = Path(__file__).parent / "output"

@@ -40,8 +40,12 @@ checkpoint_*.xlsx
 # Environment variables and secrets
 .env
 .env.local
+.env.*.local
 *.key
 *.pem
+
+# Но оставляем .env.example для шаблона
+!.env.example
 
 # OS
 .DS_Store

@@ -23,7 +23,7 @@ if sys.platform == "win32":
     sys.stderr.reconfigure(encoding="utf-8")
 
 
-DATE_RE = re.compile(r"^(?P<date>\d{2}\.\d{2}\.\d{4})\s+")
+DATE_RE = re.compile(r"^(?P<date>\d{2}\.\d{2}\.(?:\d{2}|\d{4}))\s+")
 ACCOUNT20_RE = re.compile(r"\b\d{20}\b")
 MONEY_RE = re.compile(r"(?<!\d)(\d{1,3}(?:[ \u00a0]\d{3})*|\d+)[\.,](\d{2})(?!\d)")
 
@@ -48,6 +48,14 @@ def find_last_two_money_tokens(text: str) -> tuple[tuple[int, int, str], tuple[i
     if len(matches) < 2:
         return None
     return matches[-2], matches[-1]
+
+
+def normalize_date(value: str) -> str:
+    raw = value.strip()
+    if re.match(r"^\d{2}\.\d{2}\.\d{2}$", raw):
+        dd, mm, yy = raw.split(".")
+        return f"{dd}.{mm}.20{yy}"
+    return raw
 
 
 def clean_purpose(text: str) -> str:
@@ -112,7 +120,7 @@ def parse_transactions_from_lines(lines: Iterable[str], source_file: str) -> lis
         if m:
             flush_current()
 
-            date_str = m.group("date")
+            date_str = normalize_date(m.group("date"))
             last_two = find_last_two_money_tokens(raw)
             if not last_two:
                 continue

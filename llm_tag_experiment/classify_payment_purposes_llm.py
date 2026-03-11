@@ -156,8 +156,10 @@ def normalize_ws(text: str) -> str:
 
 
 def get_llm_cfg() -> LlmCfg:
-    load_env_file_if_exists(Path(__file__).parent / ".env")
-    load_env_file_if_exists(Path(__file__).resolve().parents[2] / ".env")
+    base = Path(__file__).resolve()
+    load_env_file_if_exists(base.parent / ".env")
+    load_env_file_if_exists(base.parents[1] / ".env")
+    load_env_file_if_exists(base.parents[2] / ".env")
     provider = env("LLM_PROVIDER", "deepseek").strip().lower()
     default_model = "deepseek-chat" if provider == "deepseek" else "gpt-4o-mini"
     api_key = env("LLM_API_KEY", "")

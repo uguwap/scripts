@@ -35,6 +35,20 @@ def env(name: str, default: str) -> str:
     return v if v is not None and str(v).strip() != "" else default
 
 
+def load_env_file_if_exists(path: Path) -> None:
+    if not path.exists():
+        return
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
 def get_db_cfg() -> DbCfg:
     return DbCfg(
         host=env("PGHOST", "localhost"),
@@ -389,6 +403,10 @@ def main() -> None:
     if len(sys.argv) < 2:
         print("Usage: python load_results_to_postgres.py <path_to_xlsx> [schema]")
         raise SystemExit(2)
+
+    base = Path(__file__).resolve()
+    for d in (base.parent, base.parents[1], base.parents[2]):
+        load_env_file_if_exists(d / ".env")
 
     xlsx_path = Path(sys.argv[1]).resolve()
     schema = sys.argv[2] if len(sys.argv) >= 3 else DEFAULT_SCHEMA

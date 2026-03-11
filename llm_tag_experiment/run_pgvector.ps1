@@ -1,7 +1,3 @@
-# Загрузка XLSX с LLM-тегами в Postgres и прогон pgvector (NN по эмбеддингам, обогащённый отчёт).
-# Выполни в PowerShell из папки scripts\llm_tag_experiment:
-#   .\run_pgvector.ps1
-#   .\run_pgvector.ps1 -XlsxPath "output\classification_from_files_20260311_114334.xlsx"
 
 param(
     [string]$XlsxPath = ""

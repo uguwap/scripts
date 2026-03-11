@@ -31,6 +31,20 @@ def env(name: str, default: str) -> str:
     return v if v is not None and str(v).strip() != "" else default
 
 
+def load_env_file_if_exists(path: Path) -> None:
+    if not path.exists():
+        return
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
 def get_db_cfg() -> DbCfg:
     return DbCfg(
         host=env("PGHOST", "localhost"),
@@ -274,6 +288,10 @@ def export_enriched_excel(conn: psycopg.Connection, schema: str, source_file: st
 
 
 def main() -> None:
+    base = Path(__file__).resolve()
+    for d in (base.parent, base.parents[1], base.parents[2]):
+        load_env_file_if_exists(d / ".env")
+
     schema = env("EXPERIMENT_SCHEMA", DEFAULT_SCHEMA)
     source_file = env("EXPERIMENT_SOURCE_FILE", "classification_partial.xlsx")
     out_dir = Path(env("EXPERIMENT_OUT_DIR", str(DEFAULT_OUT_DIR))).resolve()

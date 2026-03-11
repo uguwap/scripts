@@ -1,4 +1,3 @@
-# Контекст для AI-агента: эксперимент LLM-тегов по выпискам (лизинг)
 
 ## Задача
 
@@ -22,7 +21,7 @@
 - **Выход:** в `output/` пишутся:
   - `classification_from_files_YYYYMMDD_HHMMSS.xlsx` — для загрузки в Postgres (формат как у load_results_to_postgres);
   - `result_adaptive_from_files_YYYYMMDD_HHMMSS.csv` — для convert_to_excel.py (отчёт с листами Транзакции / Сводка / SQL vs LLM).
-- **Переменные окружения:** `LLM_API_KEY`, `LLM_BASE_URL` (например `https://neuro.sspb.ru/v1`), `LLM_MODEL`, `LLM_PROVIDER`, `LLM_MAX_TOKENS`, `LLM_TEMPERATURE`. Опционально `.env` в папке скрипта или в корне ai-referent.
+- **Переменные окружения:** `LLM_API_KEY`, `LLM_BASE_URL`, `LLM_MODEL`, `LLM_PROVIDER`, `LLM_MAX_TOKENS`, `LLM_TEMPERATURE`. Задаются в окружении или в файле `.env` (см. `.env.example` в корне `scripts/`).
 
 ### 3. Обёртка запуска классификатора
 

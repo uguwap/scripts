@@ -1,10 +1,3 @@
-# Запуск LLM-классификации назначений платежей.
-# Выполни в PowerShell из папки scripts\llm_tag_experiment:
-#   .\run_classify.ps1
-#
-# Креды и параметры LLM (LLM_API_KEY, LLM_BASE_URL, LLM_MODEL и т.д.) не заданы в скрипте.
-# Задай их в окружении или положи .env в эту папку / в корень репозитория (см. .env.example).
-
 $ErrorActionPreference = "Stop"
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 Set-Location $scriptDir

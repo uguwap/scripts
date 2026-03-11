@@ -1,0 +1,32 @@
+[
+  {
+    "source_line": 17825,
+    "document_operation_date": "19.10.20",
+    "document_type_code": "17",
+    "document_number": "843",
+    "payer_or_recipient_name": "ПАО \"ЧЕЛЯБИНВЕСТБАНК\" Г ЧЕЛЯБИНСК",
+    "payer_or_recipient_inn": "7421000200",
+    "payer_or_recipient_kpp": "745101001",
+    "account_number": "70601810990002740201",
+    "debit_amount": 687.75,
+    "credit_amount": 0,
+    "payment_purpose": "согласно ст.134 фз № 127-ФЗ ЗА ОСУЩЕСТВЛЕНИЕ ДЕНЕЖНЫХ ПЕРЕВОДОВ ПО СЧЕТУ 40702810600030003472 С 01.10.20 ПО 31.10.20 СОГЛАСНО ДОГОВОРУ. НДС НЕ ПРЕДУСМОТРЕН. В ТОМ ЧИСЛЕ: Б/Н ПЛАТ. 54.15 ПЛАТ.ФИЗ/Л3 633.60",
+    "bank_bik": "047501779",
+    "payer_or_recipient_bank": "ПАО \"ЧЕЛЯБИНВЕСТБАНК\""
+  },
+  {
+    "source_line": 17830,
+    "document_operation_date": "19.10.20",
+    "document_type_code": "16",
+    "document_number": "10",
+    "payer_or_recipient_name": "ОТДЕЛЕНИЕ ЧЕЛЯБИНСК Г ЧЕЛЯБИНСК",
+    "payer_or_recipient_inn": "7448065758",
+    "payer_or_recipient_kpp": "745345004",
+    "account_number": "40302810465771200001",
+    "debit_amount": 11.85,
+    "credit_amount": 0,
+    "payment_purpose": "ден.ср-ва(осн.долг и исп.сбор)согласно Пост.б/н от 28.08.2020 МСОСП г.Челябинска по ЮЛ УФССП России по Челяб.обл. согл.мат-в ИП № 189505/19/74020-ИП от 13.08.2019 в пользу АО \"УРАЛЬСКАЯ ТЕПЛОСЕТЕВАЯ КОМПАНИЯ\" С",
+    "bank_bik": "047501001",
+    "payer_or_recipient_bank": "УФК ПО ЧЕЛЯБИНСКОЙ ОБЛАСТИ (МСОСП ПО ЮЛ Г. ЧЕЛЯБИНСКА УФССП ПО ЧЕЛЯБИНСКОЙ ОБЛАСТИ Л/С 05691А67760)"
+  }
+]

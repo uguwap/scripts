@@ -1,0 +1,9 @@
+```json
+{
+  "debtor_name": null,
+  "debtor_inn": null,
+  "debtor_account_number": "40702810600030003472",
+  "debtor_bank_name": null,
+  "currency_code": "643"
+}
+```

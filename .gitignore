@@ -1,59 +1,6 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-*.egg-info/
-dist/
-build/
-
-# Virtual environments
-venv/
-env/
-ENV/
-.venv
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Logs and temporary files
-*.log
-logs/
-*.tmp
-
-# Output files (reports, CSVs)
-*.xlsx
-*.xls
-output/*.csv
-output/*.log
-output/*.txt
-
-# Uploads and checkpoints
-uploads/
-checkpoint_*.xlsx
-
-# Environment variables and secrets
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
 .env
 .env.local
-.env.*.local
-*.key
-*.pem
-
-# Но оставляем .env.example для шаблона
-!.env.example
-
-# OS
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Large data files
-*.db
-*.sqlite
-*.sqlite3
-

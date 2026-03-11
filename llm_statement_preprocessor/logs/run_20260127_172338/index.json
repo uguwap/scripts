@@ -1,0 +1,5922 @@
+{
+  "run_id": "run_20260127_172338",
+  "created_at": "2026-01-27T17:23:38.019044",
+  "header_attempts": [
+    {
+      "attempt": 1,
+      "path": "header/attempt_01",
+      "error": null
+    }
+  ],
+  "batches": {
+    "1": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0001/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0001/input.txt",
+      "selection_path": "batches/batch_0001/selection.json"
+    },
+    "2": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0002/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0002/input.txt",
+      "selection_path": "batches/batch_0002/selection.json"
+    },
+    "3": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0003/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0003/input.txt",
+      "selection_path": "batches/batch_0003/selection.json"
+    },
+    "4": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0004/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0004/input.txt",
+      "selection_path": "batches/batch_0004/selection.json"
+    },
+    "5": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0005/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0005/input.txt",
+      "selection_path": "batches/batch_0005/selection.json"
+    },
+    "6": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0006/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0006/input.txt",
+      "selection_path": "batches/batch_0006/selection.json"
+    },
+    "7": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0007/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0007/input.txt",
+      "selection_path": "batches/batch_0007/selection.json"
+    },
+    "8": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0008/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0008/input.txt",
+      "selection_path": "batches/batch_0008/selection.json"
+    },
+    "9": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0009/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0009/input.txt",
+      "selection_path": "batches/batch_0009/selection.json"
+    },
+    "10": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0010/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0010/input.txt",
+      "selection_path": "batches/batch_0010/selection.json"
+    },
+    "11": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0011/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0011/input.txt",
+      "selection_path": "batches/batch_0011/selection.json"
+    },
+    "12": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0012/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0012/input.txt",
+      "selection_path": "batches/batch_0012/selection.json"
+    },
+    "13": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0013/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0013/input.txt",
+      "selection_path": "batches/batch_0013/selection.json"
+    },
+    "14": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0014/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0014/input.txt",
+      "selection_path": "batches/batch_0014/selection.json"
+    },
+    "15": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0015/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0015/input.txt",
+      "selection_path": "batches/batch_0015/selection.json"
+    },
+    "16": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0016/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0016/input.txt",
+      "selection_path": "batches/batch_0016/selection.json"
+    },
+    "17": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0017/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0017/input.txt",
+      "selection_path": "batches/batch_0017/selection.json"
+    },
+    "18": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0018/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0018/input.txt",
+      "selection_path": "batches/batch_0018/selection.json"
+    },
+    "19": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0019/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0019/input.txt",
+      "selection_path": "batches/batch_0019/selection.json"
+    },
+    "20": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0020/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0020/input.txt",
+      "selection_path": "batches/batch_0020/selection.json"
+    },
+    "21": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0021/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0021/input.txt",
+      "selection_path": "batches/batch_0021/selection.json"
+    },
+    "22": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0022/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0022/input.txt",
+      "selection_path": "batches/batch_0022/selection.json"
+    },
+    "23": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0023/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0023/input.txt",
+      "selection_path": "batches/batch_0023/selection.json"
+    },
+    "24": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0024/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0024/input.txt",
+      "selection_path": "batches/batch_0024/selection.json"
+    },
+    "25": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0025/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0025/input.txt",
+      "selection_path": "batches/batch_0025/selection.json"
+    },
+    "26": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0026/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0026/input.txt",
+      "selection_path": "batches/batch_0026/selection.json"
+    },
+    "27": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0027/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0027/input.txt",
+      "selection_path": "batches/batch_0027/selection.json"
+    },
+    "28": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0028/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0028/input.txt",
+      "selection_path": "batches/batch_0028/selection.json"
+    },
+    "29": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0029/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0029/input.txt",
+      "selection_path": "batches/batch_0029/selection.json"
+    },
+    "30": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0030/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0030/input.txt",
+      "selection_path": "batches/batch_0030/selection.json"
+    },
+    "31": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0031/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0031/input.txt",
+      "selection_path": "batches/batch_0031/selection.json"
+    },
+    "32": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0032/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0032/input.txt",
+      "selection_path": "batches/batch_0032/selection.json"
+    },
+    "33": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0033/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0033/input.txt",
+      "selection_path": "batches/batch_0033/selection.json"
+    },
+    "34": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0034/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0034/input.txt",
+      "selection_path": "batches/batch_0034/selection.json"
+    },
+    "35": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0035/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0035/input.txt",
+      "selection_path": "batches/batch_0035/selection.json"
+    },
+    "36": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0036/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0036/input.txt",
+      "selection_path": "batches/batch_0036/selection.json"
+    },
+    "37": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0037/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0037/input.txt",
+      "selection_path": "batches/batch_0037/selection.json"
+    },
+    "38": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0038/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0038/input.txt",
+      "selection_path": "batches/batch_0038/selection.json"
+    },
+    "39": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0039/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0039/input.txt",
+      "selection_path": "batches/batch_0039/selection.json"
+    },
+    "40": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0040/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0040/input.txt",
+      "selection_path": "batches/batch_0040/selection.json"
+    },
+    "41": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0041/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0041/input.txt",
+      "selection_path": "batches/batch_0041/selection.json"
+    },
+    "42": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0042/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0042/input.txt",
+      "selection_path": "batches/batch_0042/selection.json"
+    },
+    "43": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0043/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0043/input.txt",
+      "selection_path": "batches/batch_0043/selection.json"
+    },
+    "44": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0044/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0044/input.txt",
+      "selection_path": "batches/batch_0044/selection.json"
+    },
+    "45": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0045/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0045/input.txt",
+      "selection_path": "batches/batch_0045/selection.json"
+    },
+    "46": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0046/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0046/input.txt",
+      "selection_path": "batches/batch_0046/selection.json"
+    },
+    "47": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0047/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0047/input.txt",
+      "selection_path": "batches/batch_0047/selection.json"
+    },
+    "48": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0048/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0048/input.txt",
+      "selection_path": "batches/batch_0048/selection.json"
+    },
+    "49": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0049/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0049/input.txt",
+      "selection_path": "batches/batch_0049/selection.json"
+    },
+    "50": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0050/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0050/input.txt",
+      "selection_path": "batches/batch_0050/selection.json"
+    },
+    "51": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0051/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0051/input.txt",
+      "selection_path": "batches/batch_0051/selection.json"
+    },
+    "52": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0052/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0052/input.txt",
+      "selection_path": "batches/batch_0052/selection.json"
+    },
+    "53": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0053/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0053/input.txt",
+      "selection_path": "batches/batch_0053/selection.json"
+    },
+    "54": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0054/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0054/input.txt",
+      "selection_path": "batches/batch_0054/selection.json"
+    },
+    "55": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0055/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0055/input.txt",
+      "selection_path": "batches/batch_0055/selection.json"
+    },
+    "56": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0056/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0056/input.txt",
+      "selection_path": "batches/batch_0056/selection.json"
+    },
+    "57": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0057/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0057/input.txt",
+      "selection_path": "batches/batch_0057/selection.json"
+    },
+    "58": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0058/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0058/input.txt",
+      "selection_path": "batches/batch_0058/selection.json"
+    },
+    "59": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0059/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0059/input.txt",
+      "selection_path": "batches/batch_0059/selection.json"
+    },
+    "60": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0060/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0060/input.txt",
+      "selection_path": "batches/batch_0060/selection.json"
+    },
+    "61": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0061/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0061/input.txt",
+      "selection_path": "batches/batch_0061/selection.json"
+    },
+    "62": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0062/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0062/input.txt",
+      "selection_path": "batches/batch_0062/selection.json"
+    },
+    "63": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0063/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0063/input.txt",
+      "selection_path": "batches/batch_0063/selection.json"
+    },
+    "64": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0064/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0064/input.txt",
+      "selection_path": "batches/batch_0064/selection.json"
+    },
+    "65": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0065/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0065/input.txt",
+      "selection_path": "batches/batch_0065/selection.json"
+    },
+    "66": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0066/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0066/input.txt",
+      "selection_path": "batches/batch_0066/selection.json"
+    },
+    "67": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0067/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0067/input.txt",
+      "selection_path": "batches/batch_0067/selection.json"
+    },
+    "68": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0068/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0068/input.txt",
+      "selection_path": "batches/batch_0068/selection.json"
+    },
+    "69": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0069/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0069/input.txt",
+      "selection_path": "batches/batch_0069/selection.json"
+    },
+    "70": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0070/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0070/input.txt",
+      "selection_path": "batches/batch_0070/selection.json"
+    },
+    "71": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0071/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0071/input.txt",
+      "selection_path": "batches/batch_0071/selection.json"
+    },
+    "72": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0072/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0072/input.txt",
+      "selection_path": "batches/batch_0072/selection.json"
+    },
+    "73": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0073/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0073/input.txt",
+      "selection_path": "batches/batch_0073/selection.json"
+    },
+    "74": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0074/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0074/input.txt",
+      "selection_path": "batches/batch_0074/selection.json"
+    },
+    "75": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0075/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0075/input.txt",
+      "selection_path": "batches/batch_0075/selection.json"
+    },
+    "76": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0076/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0076/input.txt",
+      "selection_path": "batches/batch_0076/selection.json"
+    },
+    "77": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0077/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0077/input.txt",
+      "selection_path": "batches/batch_0077/selection.json"
+    },
+    "78": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0078/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0078/input.txt",
+      "selection_path": "batches/batch_0078/selection.json"
+    },
+    "79": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0079/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0079/input.txt",
+      "selection_path": "batches/batch_0079/selection.json"
+    },
+    "80": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0080/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0080/input.txt",
+      "selection_path": "batches/batch_0080/selection.json"
+    },
+    "81": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0081/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0081/input.txt",
+      "selection_path": "batches/batch_0081/selection.json"
+    },
+    "82": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0082/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0082/input.txt",
+      "selection_path": "batches/batch_0082/selection.json"
+    },
+    "83": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0083/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0083/input.txt",
+      "selection_path": "batches/batch_0083/selection.json"
+    },
+    "84": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0084/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0084/input.txt",
+      "selection_path": "batches/batch_0084/selection.json"
+    },
+    "85": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0085/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0085/input.txt",
+      "selection_path": "batches/batch_0085/selection.json"
+    },
+    "86": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0086/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0086/input.txt",
+      "selection_path": "batches/batch_0086/selection.json"
+    },
+    "87": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0087/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0087/input.txt",
+      "selection_path": "batches/batch_0087/selection.json"
+    },
+    "88": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0088/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0088/input.txt",
+      "selection_path": "batches/batch_0088/selection.json"
+    },
+    "89": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0089/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0089/input.txt",
+      "selection_path": "batches/batch_0089/selection.json"
+    },
+    "90": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0090/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0090/input.txt",
+      "selection_path": "batches/batch_0090/selection.json"
+    },
+    "91": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0091/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0091/input.txt",
+      "selection_path": "batches/batch_0091/selection.json"
+    },
+    "92": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0092/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0092/input.txt",
+      "selection_path": "batches/batch_0092/selection.json"
+    },
+    "93": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0093/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0093/input.txt",
+      "selection_path": "batches/batch_0093/selection.json"
+    },
+    "94": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0094/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0094/input.txt",
+      "selection_path": "batches/batch_0094/selection.json"
+    },
+    "95": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0095/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0095/input.txt",
+      "selection_path": "batches/batch_0095/selection.json"
+    },
+    "96": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0096/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0096/input.txt",
+      "selection_path": "batches/batch_0096/selection.json"
+    },
+    "97": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0097/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0097/input.txt",
+      "selection_path": "batches/batch_0097/selection.json"
+    },
+    "98": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0098/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0098/input.txt",
+      "selection_path": "batches/batch_0098/selection.json"
+    },
+    "99": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0099/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0099/input.txt",
+      "selection_path": "batches/batch_0099/selection.json"
+    },
+    "100": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0100/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0100/input.txt",
+      "selection_path": "batches/batch_0100/selection.json"
+    },
+    "101": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0101/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0101/input.txt",
+      "selection_path": "batches/batch_0101/selection.json"
+    },
+    "102": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0102/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0102/input.txt",
+      "selection_path": "batches/batch_0102/selection.json"
+    },
+    "103": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0103/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0103/input.txt",
+      "selection_path": "batches/batch_0103/selection.json"
+    },
+    "104": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0104/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0104/input.txt",
+      "selection_path": "batches/batch_0104/selection.json"
+    },
+    "105": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0105/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0105/input.txt",
+      "selection_path": "batches/batch_0105/selection.json"
+    },
+    "106": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0106/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0106/input.txt",
+      "selection_path": "batches/batch_0106/selection.json"
+    },
+    "107": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0107/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0107/input.txt",
+      "selection_path": "batches/batch_0107/selection.json"
+    },
+    "108": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0108/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0108/input.txt",
+      "selection_path": "batches/batch_0108/selection.json"
+    },
+    "109": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0109/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0109/input.txt",
+      "selection_path": "batches/batch_0109/selection.json"
+    },
+    "110": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0110/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0110/input.txt",
+      "selection_path": "batches/batch_0110/selection.json"
+    },
+    "111": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0111/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0111/input.txt",
+      "selection_path": "batches/batch_0111/selection.json"
+    },
+    "112": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0112/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0112/input.txt",
+      "selection_path": "batches/batch_0112/selection.json"
+    },
+    "113": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0113/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0113/input.txt",
+      "selection_path": "batches/batch_0113/selection.json"
+    },
+    "114": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0114/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0114/input.txt",
+      "selection_path": "batches/batch_0114/selection.json"
+    },
+    "115": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0115/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0115/input.txt",
+      "selection_path": "batches/batch_0115/selection.json"
+    },
+    "116": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0116/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0116/input.txt",
+      "selection_path": "batches/batch_0116/selection.json"
+    },
+    "117": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0117/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0117/input.txt",
+      "selection_path": "batches/batch_0117/selection.json"
+    },
+    "118": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0118/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0118/input.txt",
+      "selection_path": "batches/batch_0118/selection.json"
+    },
+    "119": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0119/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0119/input.txt",
+      "selection_path": "batches/batch_0119/selection.json"
+    },
+    "120": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0120/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0120/input.txt",
+      "selection_path": "batches/batch_0120/selection.json"
+    },
+    "121": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0121/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0121/input.txt",
+      "selection_path": "batches/batch_0121/selection.json"
+    },
+    "122": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0122/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0122/input.txt",
+      "selection_path": "batches/batch_0122/selection.json"
+    },
+    "123": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0123/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0123/input.txt",
+      "selection_path": "batches/batch_0123/selection.json"
+    },
+    "124": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0124/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0124/input.txt",
+      "selection_path": "batches/batch_0124/selection.json"
+    },
+    "125": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0125/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0125/input.txt",
+      "selection_path": "batches/batch_0125/selection.json"
+    },
+    "126": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0126/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0126/input.txt",
+      "selection_path": "batches/batch_0126/selection.json"
+    },
+    "127": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0127/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0127/input.txt",
+      "selection_path": "batches/batch_0127/selection.json"
+    },
+    "128": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0128/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0128/input.txt",
+      "selection_path": "batches/batch_0128/selection.json"
+    },
+    "129": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0129/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0129/input.txt",
+      "selection_path": "batches/batch_0129/selection.json"
+    },
+    "130": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0130/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0130/input.txt",
+      "selection_path": "batches/batch_0130/selection.json"
+    },
+    "131": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0131/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0131/input.txt",
+      "selection_path": "batches/batch_0131/selection.json"
+    },
+    "132": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0132/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0132/input.txt",
+      "selection_path": "batches/batch_0132/selection.json"
+    },
+    "133": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0133/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0133/input.txt",
+      "selection_path": "batches/batch_0133/selection.json"
+    },
+    "134": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0134/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0134/input.txt",
+      "selection_path": "batches/batch_0134/selection.json"
+    },
+    "135": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0135/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0135/input.txt",
+      "selection_path": "batches/batch_0135/selection.json"
+    },
+    "136": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0136/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0136/input.txt",
+      "selection_path": "batches/batch_0136/selection.json"
+    },
+    "137": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0137/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0137/input.txt",
+      "selection_path": "batches/batch_0137/selection.json"
+    },
+    "138": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0138/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0138/input.txt",
+      "selection_path": "batches/batch_0138/selection.json"
+    },
+    "139": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0139/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0139/input.txt",
+      "selection_path": "batches/batch_0139/selection.json"
+    },
+    "140": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0140/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0140/input.txt",
+      "selection_path": "batches/batch_0140/selection.json"
+    },
+    "141": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0141/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0141/input.txt",
+      "selection_path": "batches/batch_0141/selection.json"
+    },
+    "142": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0142/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0142/input.txt",
+      "selection_path": "batches/batch_0142/selection.json"
+    },
+    "143": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0143/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0143/input.txt",
+      "selection_path": "batches/batch_0143/selection.json"
+    },
+    "144": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0144/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0144/input.txt",
+      "selection_path": "batches/batch_0144/selection.json"
+    },
+    "145": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0145/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0145/input.txt",
+      "selection_path": "batches/batch_0145/selection.json"
+    },
+    "146": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0146/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0146/input.txt",
+      "selection_path": "batches/batch_0146/selection.json"
+    },
+    "147": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0147/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0147/input.txt",
+      "selection_path": "batches/batch_0147/selection.json"
+    },
+    "148": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0148/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0148/input.txt",
+      "selection_path": "batches/batch_0148/selection.json"
+    },
+    "149": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0149/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0149/input.txt",
+      "selection_path": "batches/batch_0149/selection.json"
+    },
+    "150": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0150/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0150/input.txt",
+      "selection_path": "batches/batch_0150/selection.json"
+    },
+    "151": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0151/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0151/input.txt",
+      "selection_path": "batches/batch_0151/selection.json"
+    },
+    "152": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0152/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0152/input.txt",
+      "selection_path": "batches/batch_0152/selection.json"
+    },
+    "153": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0153/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0153/input.txt",
+      "selection_path": "batches/batch_0153/selection.json"
+    },
+    "154": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0154/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0154/input.txt",
+      "selection_path": "batches/batch_0154/selection.json"
+    },
+    "155": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0155/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0155/input.txt",
+      "selection_path": "batches/batch_0155/selection.json"
+    },
+    "156": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0156/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0156/input.txt",
+      "selection_path": "batches/batch_0156/selection.json"
+    },
+    "157": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0157/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0157/input.txt",
+      "selection_path": "batches/batch_0157/selection.json"
+    },
+    "158": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0158/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0158/input.txt",
+      "selection_path": "batches/batch_0158/selection.json"
+    },
+    "159": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0159/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0159/input.txt",
+      "selection_path": "batches/batch_0159/selection.json"
+    },
+    "160": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0160/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0160/input.txt",
+      "selection_path": "batches/batch_0160/selection.json"
+    },
+    "161": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0161/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0161/input.txt",
+      "selection_path": "batches/batch_0161/selection.json"
+    },
+    "162": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0162/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0162/input.txt",
+      "selection_path": "batches/batch_0162/selection.json"
+    },
+    "163": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0163/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0163/input.txt",
+      "selection_path": "batches/batch_0163/selection.json"
+    },
+    "164": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0164/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0164/input.txt",
+      "selection_path": "batches/batch_0164/selection.json"
+    },
+    "165": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0165/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0165/input.txt",
+      "selection_path": "batches/batch_0165/selection.json"
+    },
+    "166": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0166/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0166/input.txt",
+      "selection_path": "batches/batch_0166/selection.json"
+    },
+    "167": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0167/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0167/input.txt",
+      "selection_path": "batches/batch_0167/selection.json"
+    },
+    "168": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0168/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0168/input.txt",
+      "selection_path": "batches/batch_0168/selection.json"
+    },
+    "169": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0169/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0169/input.txt",
+      "selection_path": "batches/batch_0169/selection.json"
+    },
+    "170": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0170/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0170/input.txt",
+      "selection_path": "batches/batch_0170/selection.json"
+    },
+    "171": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0171/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0171/input.txt",
+      "selection_path": "batches/batch_0171/selection.json"
+    },
+    "172": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0172/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0172/input.txt",
+      "selection_path": "batches/batch_0172/selection.json"
+    },
+    "173": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0173/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0173/input.txt",
+      "selection_path": "batches/batch_0173/selection.json"
+    },
+    "174": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0174/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0174/input.txt",
+      "selection_path": "batches/batch_0174/selection.json"
+    },
+    "175": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0175/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0175/input.txt",
+      "selection_path": "batches/batch_0175/selection.json"
+    },
+    "176": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0176/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0176/input.txt",
+      "selection_path": "batches/batch_0176/selection.json"
+    },
+    "177": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0177/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0177/input.txt",
+      "selection_path": "batches/batch_0177/selection.json"
+    },
+    "178": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0178/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0178/input.txt",
+      "selection_path": "batches/batch_0178/selection.json"
+    },
+    "179": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0179/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0179/input.txt",
+      "selection_path": "batches/batch_0179/selection.json"
+    },
+    "180": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0180/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0180/input.txt",
+      "selection_path": "batches/batch_0180/selection.json"
+    },
+    "181": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0181/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0181/input.txt",
+      "selection_path": "batches/batch_0181/selection.json"
+    },
+    "182": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0182/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0182/input.txt",
+      "selection_path": "batches/batch_0182/selection.json"
+    },
+    "183": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0183/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0183/input.txt",
+      "selection_path": "batches/batch_0183/selection.json"
+    },
+    "184": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0184/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0184/input.txt",
+      "selection_path": "batches/batch_0184/selection.json"
+    },
+    "185": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0185/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0185/input.txt",
+      "selection_path": "batches/batch_0185/selection.json"
+    },
+    "186": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0186/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0186/input.txt",
+      "selection_path": "batches/batch_0186/selection.json"
+    },
+    "187": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0187/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0187/input.txt",
+      "selection_path": "batches/batch_0187/selection.json"
+    },
+    "188": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0188/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0188/input.txt",
+      "selection_path": "batches/batch_0188/selection.json"
+    },
+    "189": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0189/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0189/input.txt",
+      "selection_path": "batches/batch_0189/selection.json"
+    },
+    "190": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0190/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0190/input.txt",
+      "selection_path": "batches/batch_0190/selection.json"
+    },
+    "191": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0191/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0191/input.txt",
+      "selection_path": "batches/batch_0191/selection.json"
+    },
+    "192": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0192/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0192/input.txt",
+      "selection_path": "batches/batch_0192/selection.json"
+    },
+    "193": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0193/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0193/input.txt",
+      "selection_path": "batches/batch_0193/selection.json"
+    },
+    "194": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0194/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0194/input.txt",
+      "selection_path": "batches/batch_0194/selection.json"
+    },
+    "195": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0195/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0195/input.txt",
+      "selection_path": "batches/batch_0195/selection.json"
+    },
+    "196": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0196/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0196/input.txt",
+      "selection_path": "batches/batch_0196/selection.json"
+    },
+    "197": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0197/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0197/input.txt",
+      "selection_path": "batches/batch_0197/selection.json"
+    },
+    "198": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0198/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0198/input.txt",
+      "selection_path": "batches/batch_0198/selection.json"
+    },
+    "199": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0199/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0199/input.txt",
+      "selection_path": "batches/batch_0199/selection.json"
+    },
+    "200": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0200/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0200/input.txt",
+      "selection_path": "batches/batch_0200/selection.json"
+    },
+    "201": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0201/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0201/input.txt",
+      "selection_path": "batches/batch_0201/selection.json"
+    },
+    "202": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0202/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0202/input.txt",
+      "selection_path": "batches/batch_0202/selection.json"
+    },
+    "203": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0203/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0203/input.txt",
+      "selection_path": "batches/batch_0203/selection.json"
+    },
+    "204": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0204/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0204/input.txt",
+      "selection_path": "batches/batch_0204/selection.json"
+    },
+    "205": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0205/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0205/input.txt",
+      "selection_path": "batches/batch_0205/selection.json"
+    },
+    "206": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0206/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0206/input.txt",
+      "selection_path": "batches/batch_0206/selection.json"
+    },
+    "207": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0207/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0207/input.txt",
+      "selection_path": "batches/batch_0207/selection.json"
+    },
+    "208": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0208/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0208/input.txt",
+      "selection_path": "batches/batch_0208/selection.json"
+    },
+    "209": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0209/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0209/input.txt",
+      "selection_path": "batches/batch_0209/selection.json"
+    },
+    "210": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0210/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0210/input.txt",
+      "selection_path": "batches/batch_0210/selection.json"
+    },
+    "211": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0211/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0211/input.txt",
+      "selection_path": "batches/batch_0211/selection.json"
+    },
+    "212": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0212/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0212/input.txt",
+      "selection_path": "batches/batch_0212/selection.json"
+    },
+    "213": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0213/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0213/input.txt",
+      "selection_path": "batches/batch_0213/selection.json"
+    },
+    "214": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0214/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0214/input.txt",
+      "selection_path": "batches/batch_0214/selection.json"
+    },
+    "215": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0215/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0215/input.txt",
+      "selection_path": "batches/batch_0215/selection.json"
+    },
+    "216": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0216/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0216/input.txt",
+      "selection_path": "batches/batch_0216/selection.json"
+    },
+    "217": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0217/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0217/input.txt",
+      "selection_path": "batches/batch_0217/selection.json"
+    },
+    "218": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0218/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0218/input.txt",
+      "selection_path": "batches/batch_0218/selection.json"
+    },
+    "219": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0219/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0219/input.txt",
+      "selection_path": "batches/batch_0219/selection.json"
+    },
+    "220": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0220/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0220/input.txt",
+      "selection_path": "batches/batch_0220/selection.json"
+    },
+    "221": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0221/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0221/input.txt",
+      "selection_path": "batches/batch_0221/selection.json"
+    },
+    "222": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0222/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0222/input.txt",
+      "selection_path": "batches/batch_0222/selection.json"
+    },
+    "223": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0223/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0223/input.txt",
+      "selection_path": "batches/batch_0223/selection.json"
+    },
+    "224": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0224/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0224/input.txt",
+      "selection_path": "batches/batch_0224/selection.json"
+    },
+    "225": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0225/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0225/input.txt",
+      "selection_path": "batches/batch_0225/selection.json"
+    },
+    "226": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0226/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0226/input.txt",
+      "selection_path": "batches/batch_0226/selection.json"
+    },
+    "227": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0227/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0227/input.txt",
+      "selection_path": "batches/batch_0227/selection.json"
+    },
+    "228": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0228/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0228/input.txt",
+      "selection_path": "batches/batch_0228/selection.json"
+    },
+    "229": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0229/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0229/input.txt",
+      "selection_path": "batches/batch_0229/selection.json"
+    },
+    "230": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0230/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0230/input.txt",
+      "selection_path": "batches/batch_0230/selection.json"
+    },
+    "231": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0231/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0231/input.txt",
+      "selection_path": "batches/batch_0231/selection.json"
+    },
+    "232": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0232/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0232/input.txt",
+      "selection_path": "batches/batch_0232/selection.json"
+    },
+    "233": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0233/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0233/input.txt",
+      "selection_path": "batches/batch_0233/selection.json"
+    },
+    "234": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0234/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0234/input.txt",
+      "selection_path": "batches/batch_0234/selection.json"
+    },
+    "235": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0235/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0235/input.txt",
+      "selection_path": "batches/batch_0235/selection.json"
+    },
+    "236": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0236/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0236/input.txt",
+      "selection_path": "batches/batch_0236/selection.json"
+    },
+    "237": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0237/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0237/input.txt",
+      "selection_path": "batches/batch_0237/selection.json"
+    },
+    "238": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0238/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0238/input.txt",
+      "selection_path": "batches/batch_0238/selection.json"
+    },
+    "239": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0239/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0239/input.txt",
+      "selection_path": "batches/batch_0239/selection.json"
+    },
+    "240": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0240/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0240/input.txt",
+      "selection_path": "batches/batch_0240/selection.json"
+    },
+    "241": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0241/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0241/input.txt",
+      "selection_path": "batches/batch_0241/selection.json"
+    },
+    "242": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0242/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0242/input.txt",
+      "selection_path": "batches/batch_0242/selection.json"
+    },
+    "243": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0243/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0243/input.txt",
+      "selection_path": "batches/batch_0243/selection.json"
+    },
+    "244": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0244/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0244/input.txt",
+      "selection_path": "batches/batch_0244/selection.json"
+    },
+    "245": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0245/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0245/input.txt",
+      "selection_path": "batches/batch_0245/selection.json"
+    },
+    "246": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0246/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0246/input.txt",
+      "selection_path": "batches/batch_0246/selection.json"
+    },
+    "247": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0247/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0247/input.txt",
+      "selection_path": "batches/batch_0247/selection.json"
+    },
+    "248": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0248/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0248/input.txt",
+      "selection_path": "batches/batch_0248/selection.json"
+    },
+    "249": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0249/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0249/input.txt",
+      "selection_path": "batches/batch_0249/selection.json"
+    },
+    "250": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0250/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0250/input.txt",
+      "selection_path": "batches/batch_0250/selection.json"
+    },
+    "251": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0251/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0251/input.txt",
+      "selection_path": "batches/batch_0251/selection.json"
+    },
+    "252": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0252/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0252/input.txt",
+      "selection_path": "batches/batch_0252/selection.json"
+    },
+    "253": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0253/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0253/input.txt",
+      "selection_path": "batches/batch_0253/selection.json"
+    },
+    "254": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0254/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0254/input.txt",
+      "selection_path": "batches/batch_0254/selection.json"
+    },
+    "255": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0255/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0255/input.txt",
+      "selection_path": "batches/batch_0255/selection.json"
+    },
+    "256": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0256/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0256/input.txt",
+      "selection_path": "batches/batch_0256/selection.json"
+    },
+    "257": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0257/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0257/input.txt",
+      "selection_path": "batches/batch_0257/selection.json"
+    },
+    "258": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0258/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0258/input.txt",
+      "selection_path": "batches/batch_0258/selection.json"
+    },
+    "259": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0259/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0259/input.txt",
+      "selection_path": "batches/batch_0259/selection.json"
+    },
+    "260": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0260/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0260/input.txt",
+      "selection_path": "batches/batch_0260/selection.json"
+    },
+    "261": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0261/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0261/input.txt",
+      "selection_path": "batches/batch_0261/selection.json"
+    },
+    "262": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0262/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0262/input.txt",
+      "selection_path": "batches/batch_0262/selection.json"
+    },
+    "263": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0263/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0263/input.txt",
+      "selection_path": "batches/batch_0263/selection.json"
+    },
+    "264": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0264/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0264/input.txt",
+      "selection_path": "batches/batch_0264/selection.json"
+    },
+    "265": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0265/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0265/input.txt",
+      "selection_path": "batches/batch_0265/selection.json"
+    },
+    "266": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0266/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0266/input.txt",
+      "selection_path": "batches/batch_0266/selection.json"
+    },
+    "267": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0267/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0267/input.txt",
+      "selection_path": "batches/batch_0267/selection.json"
+    },
+    "268": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0268/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0268/input.txt",
+      "selection_path": "batches/batch_0268/selection.json"
+    },
+    "269": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0269/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0269/input.txt",
+      "selection_path": "batches/batch_0269/selection.json"
+    },
+    "270": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0270/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0270/input.txt",
+      "selection_path": "batches/batch_0270/selection.json"
+    },
+    "271": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0271/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0271/input.txt",
+      "selection_path": "batches/batch_0271/selection.json"
+    },
+    "272": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0272/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0272/input.txt",
+      "selection_path": "batches/batch_0272/selection.json"
+    },
+    "273": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0273/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0273/input.txt",
+      "selection_path": "batches/batch_0273/selection.json"
+    },
+    "274": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0274/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0274/input.txt",
+      "selection_path": "batches/batch_0274/selection.json"
+    },
+    "275": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0275/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0275/input.txt",
+      "selection_path": "batches/batch_0275/selection.json"
+    },
+    "276": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0276/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0276/input.txt",
+      "selection_path": "batches/batch_0276/selection.json"
+    },
+    "277": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0277/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0277/input.txt",
+      "selection_path": "batches/batch_0277/selection.json"
+    },
+    "278": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0278/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0278/input.txt",
+      "selection_path": "batches/batch_0278/selection.json"
+    },
+    "279": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0279/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0279/input.txt",
+      "selection_path": "batches/batch_0279/selection.json"
+    },
+    "280": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0280/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0280/input.txt",
+      "selection_path": "batches/batch_0280/selection.json"
+    },
+    "281": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0281/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0281/input.txt",
+      "selection_path": "batches/batch_0281/selection.json"
+    },
+    "282": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0282/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0282/input.txt",
+      "selection_path": "batches/batch_0282/selection.json"
+    },
+    "283": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0283/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0283/input.txt",
+      "selection_path": "batches/batch_0283/selection.json"
+    },
+    "284": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0284/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0284/input.txt",
+      "selection_path": "batches/batch_0284/selection.json"
+    },
+    "285": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0285/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0285/input.txt",
+      "selection_path": "batches/batch_0285/selection.json"
+    },
+    "286": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0286/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0286/input.txt",
+      "selection_path": "batches/batch_0286/selection.json"
+    },
+    "287": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0287/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0287/input.txt",
+      "selection_path": "batches/batch_0287/selection.json"
+    },
+    "288": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0288/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0288/input.txt",
+      "selection_path": "batches/batch_0288/selection.json"
+    },
+    "289": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0289/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0289/input.txt",
+      "selection_path": "batches/batch_0289/selection.json"
+    },
+    "290": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0290/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0290/input.txt",
+      "selection_path": "batches/batch_0290/selection.json"
+    },
+    "291": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0291/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0291/input.txt",
+      "selection_path": "batches/batch_0291/selection.json"
+    },
+    "292": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0292/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0292/input.txt",
+      "selection_path": "batches/batch_0292/selection.json"
+    },
+    "293": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0293/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0293/input.txt",
+      "selection_path": "batches/batch_0293/selection.json"
+    },
+    "294": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0294/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0294/input.txt",
+      "selection_path": "batches/batch_0294/selection.json"
+    },
+    "295": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0295/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0295/input.txt",
+      "selection_path": "batches/batch_0295/selection.json"
+    },
+    "296": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0296/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0296/input.txt",
+      "selection_path": "batches/batch_0296/selection.json"
+    },
+    "297": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0297/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0297/input.txt",
+      "selection_path": "batches/batch_0297/selection.json"
+    },
+    "298": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0298/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0298/input.txt",
+      "selection_path": "batches/batch_0298/selection.json"
+    },
+    "299": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0299/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0299/input.txt",
+      "selection_path": "batches/batch_0299/selection.json"
+    },
+    "300": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0300/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0300/input.txt",
+      "selection_path": "batches/batch_0300/selection.json"
+    },
+    "301": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0301/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0301/input.txt",
+      "selection_path": "batches/batch_0301/selection.json"
+    },
+    "302": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0302/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0302/input.txt",
+      "selection_path": "batches/batch_0302/selection.json"
+    },
+    "303": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0303/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0303/input.txt",
+      "selection_path": "batches/batch_0303/selection.json"
+    },
+    "304": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0304/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0304/input.txt",
+      "selection_path": "batches/batch_0304/selection.json"
+    },
+    "305": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0305/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0305/input.txt",
+      "selection_path": "batches/batch_0305/selection.json"
+    },
+    "306": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0306/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0306/input.txt",
+      "selection_path": "batches/batch_0306/selection.json"
+    },
+    "307": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0307/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0307/input.txt",
+      "selection_path": "batches/batch_0307/selection.json"
+    },
+    "308": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0308/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0308/input.txt",
+      "selection_path": "batches/batch_0308/selection.json"
+    },
+    "309": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0309/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0309/input.txt",
+      "selection_path": "batches/batch_0309/selection.json"
+    },
+    "310": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0310/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0310/input.txt",
+      "selection_path": "batches/batch_0310/selection.json"
+    },
+    "311": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0311/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0311/input.txt",
+      "selection_path": "batches/batch_0311/selection.json"
+    },
+    "312": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0312/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0312/input.txt",
+      "selection_path": "batches/batch_0312/selection.json"
+    },
+    "313": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0313/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0313/input.txt",
+      "selection_path": "batches/batch_0313/selection.json"
+    },
+    "314": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0314/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0314/input.txt",
+      "selection_path": "batches/batch_0314/selection.json"
+    },
+    "315": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0315/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0315/input.txt",
+      "selection_path": "batches/batch_0315/selection.json"
+    },
+    "316": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0316/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0316/input.txt",
+      "selection_path": "batches/batch_0316/selection.json"
+    },
+    "317": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0317/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0317/input.txt",
+      "selection_path": "batches/batch_0317/selection.json"
+    },
+    "318": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0318/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0318/input.txt",
+      "selection_path": "batches/batch_0318/selection.json"
+    },
+    "319": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0319/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0319/input.txt",
+      "selection_path": "batches/batch_0319/selection.json"
+    },
+    "320": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0320/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0320/input.txt",
+      "selection_path": "batches/batch_0320/selection.json"
+    },
+    "321": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0321/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0321/input.txt",
+      "selection_path": "batches/batch_0321/selection.json"
+    },
+    "322": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0322/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0322/input.txt",
+      "selection_path": "batches/batch_0322/selection.json"
+    },
+    "323": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0323/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0323/input.txt",
+      "selection_path": "batches/batch_0323/selection.json"
+    },
+    "324": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0324/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0324/input.txt",
+      "selection_path": "batches/batch_0324/selection.json"
+    },
+    "325": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0325/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0325/input.txt",
+      "selection_path": "batches/batch_0325/selection.json"
+    },
+    "326": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0326/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0326/input.txt",
+      "selection_path": "batches/batch_0326/selection.json"
+    },
+    "327": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0327/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0327/input.txt",
+      "selection_path": "batches/batch_0327/selection.json"
+    },
+    "328": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0328/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0328/input.txt",
+      "selection_path": "batches/batch_0328/selection.json"
+    },
+    "329": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0329/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0329/input.txt",
+      "selection_path": "batches/batch_0329/selection.json"
+    },
+    "330": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0330/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0330/input.txt",
+      "selection_path": "batches/batch_0330/selection.json"
+    },
+    "331": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0331/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0331/input.txt",
+      "selection_path": "batches/batch_0331/selection.json"
+    },
+    "332": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0332/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0332/input.txt",
+      "selection_path": "batches/batch_0332/selection.json"
+    },
+    "333": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0333/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0333/input.txt",
+      "selection_path": "batches/batch_0333/selection.json"
+    },
+    "334": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0334/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0334/input.txt",
+      "selection_path": "batches/batch_0334/selection.json"
+    },
+    "335": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0335/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0335/input.txt",
+      "selection_path": "batches/batch_0335/selection.json"
+    },
+    "336": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0336/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0336/input.txt",
+      "selection_path": "batches/batch_0336/selection.json"
+    },
+    "337": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0337/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0337/input.txt",
+      "selection_path": "batches/batch_0337/selection.json"
+    },
+    "338": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0338/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0338/input.txt",
+      "selection_path": "batches/batch_0338/selection.json"
+    },
+    "339": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0339/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0339/input.txt",
+      "selection_path": "batches/batch_0339/selection.json"
+    },
+    "340": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0340/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0340/input.txt",
+      "selection_path": "batches/batch_0340/selection.json"
+    },
+    "341": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0341/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0341/input.txt",
+      "selection_path": "batches/batch_0341/selection.json"
+    },
+    "342": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0342/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0342/input.txt",
+      "selection_path": "batches/batch_0342/selection.json"
+    },
+    "343": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0343/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0343/input.txt",
+      "selection_path": "batches/batch_0343/selection.json"
+    },
+    "344": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0344/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0344/input.txt",
+      "selection_path": "batches/batch_0344/selection.json"
+    },
+    "345": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0345/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0345/input.txt",
+      "selection_path": "batches/batch_0345/selection.json"
+    },
+    "346": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0346/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0346/input.txt",
+      "selection_path": "batches/batch_0346/selection.json"
+    },
+    "347": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0347/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0347/input.txt",
+      "selection_path": "batches/batch_0347/selection.json"
+    },
+    "348": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0348/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0348/input.txt",
+      "selection_path": "batches/batch_0348/selection.json"
+    },
+    "349": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0349/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0349/input.txt",
+      "selection_path": "batches/batch_0349/selection.json"
+    },
+    "350": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0350/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0350/input.txt",
+      "selection_path": "batches/batch_0350/selection.json"
+    },
+    "351": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0351/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0351/input.txt",
+      "selection_path": "batches/batch_0351/selection.json"
+    },
+    "352": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0352/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0352/input.txt",
+      "selection_path": "batches/batch_0352/selection.json"
+    },
+    "353": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0353/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0353/input.txt",
+      "selection_path": "batches/batch_0353/selection.json"
+    },
+    "354": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0354/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0354/input.txt",
+      "selection_path": "batches/batch_0354/selection.json"
+    },
+    "355": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0355/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0355/input.txt",
+      "selection_path": "batches/batch_0355/selection.json"
+    },
+    "356": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0356/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0356/input.txt",
+      "selection_path": "batches/batch_0356/selection.json"
+    },
+    "357": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0357/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0357/input.txt",
+      "selection_path": "batches/batch_0357/selection.json"
+    },
+    "358": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0358/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0358/input.txt",
+      "selection_path": "batches/batch_0358/selection.json"
+    },
+    "359": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0359/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0359/input.txt",
+      "selection_path": "batches/batch_0359/selection.json"
+    },
+    "360": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0360/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0360/input.txt",
+      "selection_path": "batches/batch_0360/selection.json"
+    },
+    "361": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0361/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0361/input.txt",
+      "selection_path": "batches/batch_0361/selection.json"
+    },
+    "362": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0362/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0362/input.txt",
+      "selection_path": "batches/batch_0362/selection.json"
+    },
+    "363": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0363/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0363/input.txt",
+      "selection_path": "batches/batch_0363/selection.json"
+    },
+    "364": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0364/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0364/input.txt",
+      "selection_path": "batches/batch_0364/selection.json"
+    },
+    "365": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0365/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0365/input.txt",
+      "selection_path": "batches/batch_0365/selection.json"
+    },
+    "366": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0366/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0366/input.txt",
+      "selection_path": "batches/batch_0366/selection.json"
+    },
+    "367": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0367/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0367/input.txt",
+      "selection_path": "batches/batch_0367/selection.json"
+    },
+    "368": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0368/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0368/input.txt",
+      "selection_path": "batches/batch_0368/selection.json"
+    },
+    "369": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0369/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0369/input.txt",
+      "selection_path": "batches/batch_0369/selection.json"
+    },
+    "370": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0370/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0370/input.txt",
+      "selection_path": "batches/batch_0370/selection.json"
+    },
+    "371": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0371/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0371/input.txt",
+      "selection_path": "batches/batch_0371/selection.json"
+    },
+    "372": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0372/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0372/input.txt",
+      "selection_path": "batches/batch_0372/selection.json"
+    },
+    "373": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0373/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0373/input.txt",
+      "selection_path": "batches/batch_0373/selection.json"
+    },
+    "374": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0374/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0374/input.txt",
+      "selection_path": "batches/batch_0374/selection.json"
+    },
+    "375": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0375/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0375/input.txt",
+      "selection_path": "batches/batch_0375/selection.json"
+    },
+    "376": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0376/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0376/input.txt",
+      "selection_path": "batches/batch_0376/selection.json"
+    },
+    "377": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0377/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0377/input.txt",
+      "selection_path": "batches/batch_0377/selection.json"
+    },
+    "378": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0378/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0378/input.txt",
+      "selection_path": "batches/batch_0378/selection.json"
+    },
+    "379": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0379/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0379/input.txt",
+      "selection_path": "batches/batch_0379/selection.json"
+    },
+    "380": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0380/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0380/input.txt",
+      "selection_path": "batches/batch_0380/selection.json"
+    },
+    "381": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0381/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0381/input.txt",
+      "selection_path": "batches/batch_0381/selection.json"
+    },
+    "382": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0382/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0382/input.txt",
+      "selection_path": "batches/batch_0382/selection.json"
+    },
+    "383": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0383/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0383/input.txt",
+      "selection_path": "batches/batch_0383/selection.json"
+    },
+    "384": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0384/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0384/input.txt",
+      "selection_path": "batches/batch_0384/selection.json"
+    },
+    "385": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0385/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0385/input.txt",
+      "selection_path": "batches/batch_0385/selection.json"
+    },
+    "386": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0386/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0386/input.txt",
+      "selection_path": "batches/batch_0386/selection.json"
+    },
+    "387": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0387/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0387/input.txt",
+      "selection_path": "batches/batch_0387/selection.json"
+    },
+    "388": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0388/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0388/input.txt",
+      "selection_path": "batches/batch_0388/selection.json"
+    },
+    "389": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0389/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0389/input.txt",
+      "selection_path": "batches/batch_0389/selection.json"
+    },
+    "390": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0390/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0390/input.txt",
+      "selection_path": "batches/batch_0390/selection.json"
+    },
+    "391": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0391/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0391/input.txt",
+      "selection_path": "batches/batch_0391/selection.json"
+    },
+    "392": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0392/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0392/input.txt",
+      "selection_path": "batches/batch_0392/selection.json"
+    },
+    "393": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0393/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0393/input.txt",
+      "selection_path": "batches/batch_0393/selection.json"
+    },
+    "394": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0394/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0394/input.txt",
+      "selection_path": "batches/batch_0394/selection.json"
+    },
+    "395": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0395/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0395/input.txt",
+      "selection_path": "batches/batch_0395/selection.json"
+    },
+    "396": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0396/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0396/input.txt",
+      "selection_path": "batches/batch_0396/selection.json"
+    },
+    "397": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0397/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0397/input.txt",
+      "selection_path": "batches/batch_0397/selection.json"
+    },
+    "398": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0398/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0398/input.txt",
+      "selection_path": "batches/batch_0398/selection.json"
+    },
+    "399": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0399/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0399/input.txt",
+      "selection_path": "batches/batch_0399/selection.json"
+    },
+    "400": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0400/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0400/input.txt",
+      "selection_path": "batches/batch_0400/selection.json"
+    },
+    "401": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0401/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0401/input.txt",
+      "selection_path": "batches/batch_0401/selection.json"
+    },
+    "402": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0402/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0402/input.txt",
+      "selection_path": "batches/batch_0402/selection.json"
+    },
+    "403": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0403/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0403/input.txt",
+      "selection_path": "batches/batch_0403/selection.json"
+    },
+    "404": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0404/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0404/input.txt",
+      "selection_path": "batches/batch_0404/selection.json"
+    },
+    "405": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0405/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0405/input.txt",
+      "selection_path": "batches/batch_0405/selection.json"
+    },
+    "406": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0406/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0406/input.txt",
+      "selection_path": "batches/batch_0406/selection.json"
+    },
+    "407": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0407/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0407/input.txt",
+      "selection_path": "batches/batch_0407/selection.json"
+    },
+    "408": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0408/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0408/input.txt",
+      "selection_path": "batches/batch_0408/selection.json"
+    },
+    "409": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0409/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0409/input.txt",
+      "selection_path": "batches/batch_0409/selection.json"
+    },
+    "410": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0410/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0410/input.txt",
+      "selection_path": "batches/batch_0410/selection.json"
+    },
+    "411": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0411/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0411/input.txt",
+      "selection_path": "batches/batch_0411/selection.json"
+    },
+    "412": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0412/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0412/input.txt",
+      "selection_path": "batches/batch_0412/selection.json"
+    },
+    "413": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0413/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0413/input.txt",
+      "selection_path": "batches/batch_0413/selection.json"
+    },
+    "414": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0414/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0414/input.txt",
+      "selection_path": "batches/batch_0414/selection.json"
+    },
+    "415": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0415/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0415/input.txt",
+      "selection_path": "batches/batch_0415/selection.json"
+    },
+    "416": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0416/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0416/input.txt",
+      "selection_path": "batches/batch_0416/selection.json"
+    },
+    "417": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0417/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0417/input.txt",
+      "selection_path": "batches/batch_0417/selection.json"
+    },
+    "418": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0418/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0418/input.txt",
+      "selection_path": "batches/batch_0418/selection.json"
+    },
+    "419": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0419/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0419/input.txt",
+      "selection_path": "batches/batch_0419/selection.json"
+    },
+    "420": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0420/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0420/input.txt",
+      "selection_path": "batches/batch_0420/selection.json"
+    },
+    "421": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0421/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0421/input.txt",
+      "selection_path": "batches/batch_0421/selection.json"
+    },
+    "422": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0422/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0422/input.txt",
+      "selection_path": "batches/batch_0422/selection.json"
+    },
+    "423": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0423/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0423/input.txt",
+      "selection_path": "batches/batch_0423/selection.json"
+    },
+    "424": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0424/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0424/input.txt",
+      "selection_path": "batches/batch_0424/selection.json"
+    },
+    "425": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0425/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0425/input.txt",
+      "selection_path": "batches/batch_0425/selection.json"
+    },
+    "426": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0426/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0426/input.txt",
+      "selection_path": "batches/batch_0426/selection.json"
+    },
+    "427": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0427/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0427/input.txt",
+      "selection_path": "batches/batch_0427/selection.json"
+    },
+    "428": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0428/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0428/input.txt",
+      "selection_path": "batches/batch_0428/selection.json"
+    },
+    "429": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0429/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0429/input.txt",
+      "selection_path": "batches/batch_0429/selection.json"
+    },
+    "430": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0430/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0430/input.txt",
+      "selection_path": "batches/batch_0430/selection.json"
+    },
+    "431": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0431/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0431/input.txt",
+      "selection_path": "batches/batch_0431/selection.json"
+    },
+    "432": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0432/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0432/input.txt",
+      "selection_path": "batches/batch_0432/selection.json"
+    },
+    "433": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0433/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0433/input.txt",
+      "selection_path": "batches/batch_0433/selection.json"
+    },
+    "434": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0434/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0434/input.txt",
+      "selection_path": "batches/batch_0434/selection.json"
+    },
+    "435": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0435/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0435/input.txt",
+      "selection_path": "batches/batch_0435/selection.json"
+    },
+    "436": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0436/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0436/input.txt",
+      "selection_path": "batches/batch_0436/selection.json"
+    },
+    "437": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0437/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0437/input.txt",
+      "selection_path": "batches/batch_0437/selection.json"
+    },
+    "438": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0438/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0438/input.txt",
+      "selection_path": "batches/batch_0438/selection.json"
+    },
+    "439": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0439/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0439/input.txt",
+      "selection_path": "batches/batch_0439/selection.json"
+    },
+    "440": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0440/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0440/input.txt",
+      "selection_path": "batches/batch_0440/selection.json"
+    },
+    "441": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0441/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0441/input.txt",
+      "selection_path": "batches/batch_0441/selection.json"
+    },
+    "442": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0442/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0442/input.txt",
+      "selection_path": "batches/batch_0442/selection.json"
+    },
+    "443": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0443/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0443/input.txt",
+      "selection_path": "batches/batch_0443/selection.json"
+    },
+    "444": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0444/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0444/input.txt",
+      "selection_path": "batches/batch_0444/selection.json"
+    },
+    "445": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0445/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0445/input.txt",
+      "selection_path": "batches/batch_0445/selection.json"
+    },
+    "446": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0446/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0446/input.txt",
+      "selection_path": "batches/batch_0446/selection.json"
+    },
+    "447": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0447/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0447/input.txt",
+      "selection_path": "batches/batch_0447/selection.json"
+    },
+    "448": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0448/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0448/input.txt",
+      "selection_path": "batches/batch_0448/selection.json"
+    },
+    "449": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0449/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0449/input.txt",
+      "selection_path": "batches/batch_0449/selection.json"
+    },
+    "450": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0450/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0450/input.txt",
+      "selection_path": "batches/batch_0450/selection.json"
+    },
+    "451": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0451/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0451/input.txt",
+      "selection_path": "batches/batch_0451/selection.json"
+    },
+    "452": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0452/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0452/input.txt",
+      "selection_path": "batches/batch_0452/selection.json"
+    },
+    "453": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0453/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0453/input.txt",
+      "selection_path": "batches/batch_0453/selection.json"
+    },
+    "454": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0454/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0454/input.txt",
+      "selection_path": "batches/batch_0454/selection.json"
+    },
+    "455": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0455/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0455/input.txt",
+      "selection_path": "batches/batch_0455/selection.json"
+    },
+    "456": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0456/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0456/input.txt",
+      "selection_path": "batches/batch_0456/selection.json"
+    },
+    "457": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0457/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0457/input.txt",
+      "selection_path": "batches/batch_0457/selection.json"
+    },
+    "458": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0458/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0458/input.txt",
+      "selection_path": "batches/batch_0458/selection.json"
+    },
+    "459": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0459/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0459/input.txt",
+      "selection_path": "batches/batch_0459/selection.json"
+    },
+    "460": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0460/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0460/input.txt",
+      "selection_path": "batches/batch_0460/selection.json"
+    },
+    "461": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0461/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0461/input.txt",
+      "selection_path": "batches/batch_0461/selection.json"
+    },
+    "462": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0462/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0462/input.txt",
+      "selection_path": "batches/batch_0462/selection.json"
+    },
+    "463": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0463/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0463/input.txt",
+      "selection_path": "batches/batch_0463/selection.json"
+    },
+    "464": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0464/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0464/input.txt",
+      "selection_path": "batches/batch_0464/selection.json"
+    },
+    "465": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0465/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0465/input.txt",
+      "selection_path": "batches/batch_0465/selection.json"
+    },
+    "466": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0466/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0466/input.txt",
+      "selection_path": "batches/batch_0466/selection.json"
+    },
+    "467": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0467/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0467/input.txt",
+      "selection_path": "batches/batch_0467/selection.json"
+    },
+    "468": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0468/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0468/input.txt",
+      "selection_path": "batches/batch_0468/selection.json"
+    },
+    "469": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0469/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0469/input.txt",
+      "selection_path": "batches/batch_0469/selection.json"
+    },
+    "470": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0470/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0470/input.txt",
+      "selection_path": "batches/batch_0470/selection.json"
+    },
+    "471": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0471/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0471/input.txt",
+      "selection_path": "batches/batch_0471/selection.json"
+    },
+    "472": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0472/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0472/input.txt",
+      "selection_path": "batches/batch_0472/selection.json"
+    },
+    "473": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0473/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0473/input.txt",
+      "selection_path": "batches/batch_0473/selection.json"
+    },
+    "474": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0474/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0474/input.txt",
+      "selection_path": "batches/batch_0474/selection.json"
+    },
+    "475": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0475/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0475/input.txt",
+      "selection_path": "batches/batch_0475/selection.json"
+    },
+    "476": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0476/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0476/input.txt",
+      "selection_path": "batches/batch_0476/selection.json"
+    },
+    "477": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0477/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0477/input.txt",
+      "selection_path": "batches/batch_0477/selection.json"
+    },
+    "478": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0478/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0478/input.txt",
+      "selection_path": "batches/batch_0478/selection.json"
+    },
+    "479": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0479/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0479/input.txt",
+      "selection_path": "batches/batch_0479/selection.json"
+    },
+    "480": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0480/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0480/input.txt",
+      "selection_path": "batches/batch_0480/selection.json"
+    },
+    "481": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0481/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0481/input.txt",
+      "selection_path": "batches/batch_0481/selection.json"
+    },
+    "482": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0482/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0482/input.txt",
+      "selection_path": "batches/batch_0482/selection.json"
+    },
+    "483": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0483/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0483/input.txt",
+      "selection_path": "batches/batch_0483/selection.json"
+    },
+    "484": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0484/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0484/input.txt",
+      "selection_path": "batches/batch_0484/selection.json"
+    },
+    "485": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0485/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0485/input.txt",
+      "selection_path": "batches/batch_0485/selection.json"
+    },
+    "486": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0486/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0486/input.txt",
+      "selection_path": "batches/batch_0486/selection.json"
+    },
+    "487": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0487/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0487/input.txt",
+      "selection_path": "batches/batch_0487/selection.json"
+    },
+    "488": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0488/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0488/input.txt",
+      "selection_path": "batches/batch_0488/selection.json"
+    },
+    "489": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0489/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0489/input.txt",
+      "selection_path": "batches/batch_0489/selection.json"
+    },
+    "490": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0490/attempt_01",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7751)"
+        },
+        {
+          "attempt": 2,
+          "path": "batches/batch_0490/attempt_02",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7751)"
+        },
+        {
+          "attempt": 3,
+          "path": "batches/batch_0490/attempt_03",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7751)"
+        },
+        {
+          "attempt": 4,
+          "path": "batches/batch_0490/attempt_04",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7751)"
+        },
+        {
+          "attempt": 5,
+          "path": "batches/batch_0490/attempt_05",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7751)"
+        },
+        {
+          "attempt": 6,
+          "path": "batches/batch_0490/attempt_06",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7751)"
+        },
+        {
+          "attempt": 7,
+          "path": "batches/batch_0490/attempt_07",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7751)"
+        }
+      ],
+      "input_path": "batches/batch_0490/input.txt",
+      "selection_path": "batches/batch_0490/selection.json"
+    },
+    "491": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0491/attempt_01",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7788)"
+        },
+        {
+          "attempt": 2,
+          "path": "batches/batch_0491/attempt_02",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7788)"
+        },
+        {
+          "attempt": 3,
+          "path": "batches/batch_0491/attempt_03",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7788)"
+        },
+        {
+          "attempt": 4,
+          "path": "batches/batch_0491/attempt_04",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7788)"
+        },
+        {
+          "attempt": 5,
+          "path": "batches/batch_0491/attempt_05",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7788)"
+        },
+        {
+          "attempt": 6,
+          "path": "batches/batch_0491/attempt_06",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7785)"
+        },
+        {
+          "attempt": 7,
+          "path": "batches/batch_0491/attempt_07",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7785)"
+        }
+      ],
+      "input_path": "batches/batch_0491/input.txt",
+      "selection_path": "batches/batch_0491/selection.json"
+    },
+    "492": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0492/attempt_01",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7752)"
+        },
+        {
+          "attempt": 2,
+          "path": "batches/batch_0492/attempt_02",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7752)"
+        },
+        {
+          "attempt": 3,
+          "path": "batches/batch_0492/attempt_03",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7752)"
+        },
+        {
+          "attempt": 4,
+          "path": "batches/batch_0492/attempt_04",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7752)"
+        },
+        {
+          "attempt": 5,
+          "path": "batches/batch_0492/attempt_05",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7752)"
+        },
+        {
+          "attempt": 6,
+          "path": "batches/batch_0492/attempt_06",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7752)"
+        },
+        {
+          "attempt": 7,
+          "path": "batches/batch_0492/attempt_07",
+          "error": "Expecting ',' delimiter: line 145 column 4 (char 7752)"
+        }
+      ],
+      "input_path": "batches/batch_0492/input.txt",
+      "selection_path": "batches/batch_0492/selection.json"
+    },
+    "493": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0493/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0493/input.txt",
+      "selection_path": "batches/batch_0493/selection.json"
+    },
+    "494": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0494/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0494/input.txt",
+      "selection_path": "batches/batch_0494/selection.json"
+    },
+    "495": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0495/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0495/input.txt",
+      "selection_path": "batches/batch_0495/selection.json"
+    },
+    "496": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0496/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0496/input.txt",
+      "selection_path": "batches/batch_0496/selection.json"
+    },
+    "497": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0497/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0497/input.txt",
+      "selection_path": "batches/batch_0497/selection.json"
+    },
+    "498": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0498/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0498/input.txt",
+      "selection_path": "batches/batch_0498/selection.json"
+    },
+    "499": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0499/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0499/input.txt",
+      "selection_path": "batches/batch_0499/selection.json"
+    },
+    "500": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0500/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0500/input.txt",
+      "selection_path": "batches/batch_0500/selection.json"
+    },
+    "501": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0501/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0501/input.txt",
+      "selection_path": "batches/batch_0501/selection.json"
+    },
+    "502": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0502/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0502/input.txt",
+      "selection_path": "batches/batch_0502/selection.json"
+    },
+    "503": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0503/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0503/input.txt",
+      "selection_path": "batches/batch_0503/selection.json"
+    },
+    "504": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0504/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0504/input.txt",
+      "selection_path": "batches/batch_0504/selection.json"
+    },
+    "505": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0505/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0505/input.txt",
+      "selection_path": "batches/batch_0505/selection.json"
+    },
+    "506": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0506/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0506/input.txt",
+      "selection_path": "batches/batch_0506/selection.json"
+    },
+    "507": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0507/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0507/input.txt",
+      "selection_path": "batches/batch_0507/selection.json"
+    },
+    "508": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0508/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0508/input.txt",
+      "selection_path": "batches/batch_0508/selection.json"
+    },
+    "509": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0509/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0509/input.txt",
+      "selection_path": "batches/batch_0509/selection.json"
+    },
+    "510": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0510/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0510/input.txt",
+      "selection_path": "batches/batch_0510/selection.json"
+    },
+    "511": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0511/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0511/input.txt",
+      "selection_path": "batches/batch_0511/selection.json"
+    },
+    "512": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0512/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0512/input.txt",
+      "selection_path": "batches/batch_0512/selection.json"
+    },
+    "513": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0513/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0513/input.txt",
+      "selection_path": "batches/batch_0513/selection.json"
+    },
+    "514": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0514/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0514/input.txt",
+      "selection_path": "batches/batch_0514/selection.json"
+    },
+    "515": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0515/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0515/input.txt",
+      "selection_path": "batches/batch_0515/selection.json"
+    },
+    "516": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0516/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0516/input.txt",
+      "selection_path": "batches/batch_0516/selection.json"
+    },
+    "517": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0517/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0517/input.txt",
+      "selection_path": "batches/batch_0517/selection.json"
+    },
+    "518": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0518/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0518/input.txt",
+      "selection_path": "batches/batch_0518/selection.json"
+    },
+    "519": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0519/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0519/input.txt",
+      "selection_path": "batches/batch_0519/selection.json"
+    },
+    "520": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0520/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0520/input.txt",
+      "selection_path": "batches/batch_0520/selection.json"
+    },
+    "521": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0521/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0521/input.txt",
+      "selection_path": "batches/batch_0521/selection.json"
+    },
+    "522": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0522/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0522/input.txt",
+      "selection_path": "batches/batch_0522/selection.json"
+    },
+    "523": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0523/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0523/input.txt",
+      "selection_path": "batches/batch_0523/selection.json"
+    },
+    "524": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0524/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0524/input.txt",
+      "selection_path": "batches/batch_0524/selection.json"
+    },
+    "525": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0525/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0525/input.txt",
+      "selection_path": "batches/batch_0525/selection.json"
+    },
+    "526": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0526/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0526/input.txt",
+      "selection_path": "batches/batch_0526/selection.json"
+    },
+    "527": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0527/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0527/input.txt",
+      "selection_path": "batches/batch_0527/selection.json"
+    },
+    "528": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0528/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0528/input.txt",
+      "selection_path": "batches/batch_0528/selection.json"
+    },
+    "529": {
+      "attempts": [
+        {
+          "attempt": 1,
+          "path": "batches/batch_0529/attempt_01",
+          "error": null
+        }
+      ],
+      "input_path": "batches/batch_0529/input.txt",
+      "selection_path": "batches/batch_0529/selection.json"
+    }
+  }
+}

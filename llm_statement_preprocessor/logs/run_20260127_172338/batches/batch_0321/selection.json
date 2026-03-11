@@ -1,0 +1,17 @@
+{
+  "batch_number": 321,
+  "meta": {
+    "selected": "llm",
+    "expected_ops": 10,
+    "ops_count": 10,
+    "coverage": 1.0,
+    "with_source_line": 10,
+    "with_date": 10,
+    "score": 28.0,
+    "reason": "ok",
+    "llm_score": 28.0,
+    "recovery_score": 26.607,
+    "missing_source_lines": 0,
+    "source_line_filled": 0
+  }
+}
